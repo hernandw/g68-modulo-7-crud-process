@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queries.js",
+  "type": "module",
+  "scripts": {
+    "start": "node queries.js"
+  },
+  "keywords": [],
+  "author": "Williams Hernandez",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "pg": "^8.11.5"
+  }
+}
